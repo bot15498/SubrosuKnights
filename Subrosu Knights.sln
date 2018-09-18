@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subrosu Knights.CSharp", "Subrosu Knights.CSharp.csproj", "{C75C4F23-C75D-C81F-3BE4-FA6581FD6DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subrosu Knights.CSharp.Editor", "Subrosu Knights.CSharp.Editor.csproj", "{CC8C29A4-ABFC-AC39-34E6-AF0EC94C45E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C75C4F23-C75D-C81F-3BE4-FA6581FD6DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75C4F23-C75D-C81F-3BE4-FA6581FD6DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75C4F23-C75D-C81F-3BE4-FA6581FD6DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75C4F23-C75D-C81F-3BE4-FA6581FD6DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8C29A4-ABFC-AC39-34E6-AF0EC94C45E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8C29A4-ABFC-AC39-34E6-AF0EC94C45E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8C29A4-ABFC-AC39-34E6-AF0EC94C45E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8C29A4-ABFC-AC39-34E6-AF0EC94C45E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
